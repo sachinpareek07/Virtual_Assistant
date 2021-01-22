@@ -1,0 +1,14 @@
+{
+    "params":
+    {
+        "spotify":"Enter spotify path",
+        "chrome":"Enter chrome path",
+        "my_mail_id":"Enter the sender's mail id",
+        "password":"sender's password",
+        "mail1":"receiver's mail id",
+        "music_path":"Enter the Music directory's path",
+        "ss_path":"The path where you want to save screenshot with the name like (c:\\ss.jpg)" 
+        
+
+    }
+}
